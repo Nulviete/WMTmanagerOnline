@@ -1,0 +1,1 @@
+import{Q as a}from"./QPage.92de3d61.js";import{_ as e,E as t,F as s,G as o,I as c}from"./index.55389d72.js";import"./render.419af7ee.js";const r={},n=c("p",null,"Open call",-1);function p(_,l,d,i,f,m){return o(),t(a,{padding:"",class:"bg-accent"},{default:s(()=>[n]),_:1})}var g=e(r,[["render",p]]);export{g as default};
