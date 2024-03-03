@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.fffa2538.js";import{_ as t,J as a,K as o,L as s,O as r}from"./index.181651b6.js";const c={},n=r("h5",null,"Welcome to the test zone",-1);function _(d,f){return a(),o(e,{padding:""},{default:s(()=>[n]),_:1})}var m=t(c,[["render",_]]);export{m as default};
